@@ -1,13 +1,11 @@
 # Entorno virtual
 .venv/
 
-# Caché de Python
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Build / empaquetado
+# Build
 build/
 dist/
 
@@ -15,17 +13,15 @@ dist/
 logs/*
 !logs/.gitkeep
 
-# Archivos exportados / resultados
+# Output
 output/*
 !output/.gitkeep
 
 # Temporales
 *.log
-*.tmp
-*.bak
 
-# Sistema / editor
-.DS_Store
-Thumbs.db
+# Editor
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
