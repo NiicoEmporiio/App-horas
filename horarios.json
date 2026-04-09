@@ -1,0 +1,114 @@
+{
+  "Almacen": {
+    "__sector__": {
+      "lunes": "13:00",
+      "martes": "13:00",
+      "miércoles": "13:00",
+      "jueves": "13:00",
+      "viernes": "13:00",
+      "sábado": "13:00"
+    },
+    "Amarilla Agnelli Lautaro": {
+      "sábado": "10:00"
+    },
+    "Cornejo Daniel": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Graño Lautaro": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Lamarque Joaquin": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Lopez Brian Emanuel": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Moliterno Lautaro": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Cornejo Ezequiel": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Amarilla Lautaro": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    },
+    "Lopez Brian": {
+      "viernes": "14:00",
+      "sábado": "11:00"
+    }
+  },
+  "Chofer": {
+    "__sector__": "06:30"
+  },
+  "Ayudante de Reparto": {
+    "__sector__": {
+      "lunes": "06:30",
+      "martes": "06:30",
+      "miércoles": "06:30",
+      "jueves": "06:30",
+      "viernes": "06:30",
+      "sábado": "06:30",
+      "domingo": "06:30"
+    },
+    "Gonzalez Matias": {
+      "lunes": "07:00",
+      "martes": "07:00",
+      "miércoles": "07:00",
+      "jueves": "07:00",
+      "viernes": "07:00",
+      "sábado": "07:00"
+    },
+    "Gonzales Matias": {
+      "lunes": "07:00",
+      "martes": "07:00",
+      "miércoles": "07:00",
+      "jueves": "07:00",
+      "viernes": "07:00",
+      "sábado": "07:00"
+    }
+  },
+  "Choferes/Varios": {
+    "Acosta Cristian": {
+      "lunes": "05:00",
+      "martes": "03:00",
+      "miércoles": "04:00",
+      "jueves": "04:00",
+      "viernes": "04:00",
+      "sábado": "05:00"
+    },
+    "Flores Lucas Sebastian": {
+      "lunes": "05:00",
+      "martes": "02:00",
+      "miércoles": "04:00",
+      "jueves": "04:00",
+      "viernes": "04:00",
+      "sábado": "05:00"
+    },
+    "Flores, Lucas": {
+      "lunes": "05:00",
+      "martes": "02:00",
+      "miércoles": "04:00",
+      "jueves": "04:00",
+      "viernes": "04:00",
+      "sábado": "05:00"
+    }
+  },
+  "__overrides__": {},
+  "Carga y Descarga Guido": {
+    "__sector__": {
+      "lunes": "06:00",
+      "martes": "04:00",
+      "miércoles": "05:00",
+      "jueves": "05:00",
+      "viernes": "05:00",
+      "sábado": "06:00"
+    }
+  }
+}

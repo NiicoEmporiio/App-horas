@@ -1,0 +1,7 @@
+- [x] Modificar lógica de retrasos para considerar llegada tarde solo si retraso >= 1 minuto
+  - [x] Cambiar condición en _actualizar_tabla para colorear filas solo si retraso >= 60 segundos
+  - [x] Cambiar condición en exportar_resultado para contar retrasos solo si >= 1 minuto
+  - [x] Ajustar filtro en hoja "Dias Tarde" para retrasos >= 1 minuto
+- [x] Modificar lógica de "Cobrar Presentismo" para agregar caso de 100% cuando hay exactamente 2 días tarde con uno >15 min y uno <=15 min
+  - [x] Actualizar condiciones if-elif en exportar_resultado
+  - [x] Ajustar aclaraciones para reflejar las nuevas reglas
